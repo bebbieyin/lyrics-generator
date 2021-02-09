@@ -3,11 +3,11 @@
 
 ## Dataset
 ### The dataset is created by using Spotify API and Genius API. 
-Spotify API is used to retrieve songs from five different genres (Pop, Rock, Blues, Country, Hip-Hop) and Genius API is used to search for the song lyrics for each song. The lyrics are then retrived from the Genius website using web-scaping. 
+Spotify API is used to retrieve songs from five different genres (Pop, Rock, Blues, Country, Hip-Hop) and Genius API is used to search for the song lyrics for each song. The lyrics are then retrived from the Genius website using web-scaping. <br>
 *See Creating Dataset.ipynb*
 
 ## Model
-Character-level language model is used for this project. The model used is RNN with LSTM layers.
+Character-level language model is used for this project. The model used is RNN with LSTM layers. <br>
 *For more detailed explanation, read the Report.pdf * 
 
 **How to run the program** :
