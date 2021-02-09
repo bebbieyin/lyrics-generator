@@ -9,5 +9,9 @@ How to run the program :
 5. To generate another song lyric, click Reset and repeat 1 to 4.
 
 Screenshot of User interface:
+![alt text](https://github.com/bebbieyin/lyrics-generator/blob/master/image/ui1.png)
+
+![alt text](https://github.com/bebbieyin/lyrics-generator/blob/master/image/ui2.png)
+
 
 
