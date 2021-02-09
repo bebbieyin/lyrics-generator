@@ -8,7 +8,7 @@ Spotify API is used to retrieve songs from five different genres (Pop, Rock, Blu
 
 ## Model
 Character-level language model is used for this project. The model used is RNN with LSTM layers. <br>
-*For more detailed explanation, read the Report.pdf * 
+*For more detailed explanation, read the Report.pdf* 
 
 **How to run the program** :
 1. Run User interface.ipynb
