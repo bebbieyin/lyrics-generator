@@ -1,6 +1,10 @@
 # Lyrics-generator
 ### Lyrics generation based on different music genres given a user input seed
 
+## System Workflow
+![alt text](https://github.com/bebbieyin/lyrics-generator/blob/master/image/system%20workflow.jpg)
+
+
 ## Dataset
 ### The dataset is created by using Spotify API and Genius API. 
 Spotify API is used to retrieve songs from five different genres (Pop, Rock, Blues, Country, Hip-Hop) and Genius API is used to search for the song lyrics for each song. The lyrics are then retrived from the Genius website using web-scaping. <br>
