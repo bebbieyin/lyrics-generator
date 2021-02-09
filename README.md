@@ -8,7 +8,8 @@ How to run the program :
 4. Press the ‘Generate’ button and wait for results.
 5. To generate another song lyric, click Reset and repeat 1 to 4.
 
-Screenshot of User interface:
+Screenshot of User interface: <br>
+
 ![alt text](https://github.com/bebbieyin/lyrics-generator/blob/master/image/ui1.png)
 
 ![alt text](https://github.com/bebbieyin/lyrics-generator/blob/master/image/ui2.png)
